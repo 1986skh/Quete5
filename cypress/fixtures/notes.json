@@ -1,0 +1,26 @@
+[ {
+    "title": "Note 1",
+    "description": "Description de la note 1.",
+    "category": "Home"
+  },
+  {
+    "title": "Note 2",
+    "description": "Description de la note 2.",
+    "category": "Work"
+  },
+  {
+    "title": "Note 3",
+    "description": "Description de la note 3.",
+    "category": "Personal"
+  },
+  {
+    "title": "Note 4",
+    "description": "Description de la note 4.",
+    "category": "Home"
+  },
+  {
+    "title": "Note 5",
+    "description": "Description de la note 5.",
+    "category": "Work"
+  }
+]
